@@ -1423,3 +1423,30 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* Hide the page H1 only on Research */
+.research-page .page-title { display: none; }
+
+/* ===== CV page: flat layout with year on the left ===== */
+body.layout--cv,
+.cv {
+
+  /* Remove card visuals completely */
+  .card,
+  .card * {
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+  .card { border: 0 !important; }
+
+  /* Remove global table padding that made things look messy */
+  table td, table th { padding: 0 !important; }
+
+  /* Typography tweaks */
+  table.institution td { font-size: 1rem; line-height: 1.45; }
+  td.department { font-size: 0.95rem; opacity: 0.95; }
+  p.location { font-size: 0.9rem; opacity: 0.9; margin: 0.15rem 0 0.35rem; white-space: normal; }
+
+  /* Hide decorative icons */
+  i.iconinstitution, i.icondepartment, i.iconlocation { display: none !important; }
+}

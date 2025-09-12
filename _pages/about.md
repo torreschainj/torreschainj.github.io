@@ -2,33 +2,62 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div class="row g-5">
+  <!-- LEFT COLUMN -->
+  <div class="col-md-4">
+    <img src="/assets/img/prof_pic.jpg" alt="Johanna Torres Chain" class="img-fluid rounded mb-3">
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+    <p><strong>Contact</strong><br>
+    <a href="mailto:torre750@umn.edu">torre750@umn.edu</a><br>
+    University of Minnesota</p>
+
+    <p><strong>Social</strong></p>
+    <ul class="list-unstyled">
+      <li><a href="https://github.com/torreschainj" target="_blank">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/johanna-torres-chain-74a26397/" target="_blank">LinkedIn</a></li>
+       <li><a href="https://x.com/johanatch" target="_blank">X (Twitter)</a></li>
+    </ul>
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div class="col-md-8"><div style="margin-top: 1rem;">
+    <p>
+      Welcome to my website! I am a Ph.D. Candidate in Economics at the 
+      <a href="https://cla.umn.edu/economics" target="_blank">University of Minnesota</a>, 
+      working under the supervision of 
+      <a href="https://users.nber.org/~denardim/" target="_blank">Mariacristina De Nardi</a> and <a href="https://www.josephlyonmullins.com" target="_blank">Jo Mullins</a>.
+    </p>
+    
+    <p>
+    I am also an <strong>NBER Graduate Fellow (2025–26)</strong>.
+    </p>
+    
+    <p>
+      My research lies at the intersection of <strong>macroeconomics</strong>, 
+      <strong>household finance</strong>, and <strong>public policy</strong>. 
+      My work focuses on <strong>long-term care</strong>, <strong>informal care provision</strong>, 
+      and <strong>health</strong>, with a particular interest in 
+      <strong>racial and socioeconomic disparities</strong>. 
+    </p>
+
+    <p>
+      I use <strong>structural models</strong> and <strong>micro-level data</strong> to evaluate 
+      how social security and policy design affect economic outcomes, 
+      especially for the aging population.
+    </p>
+
+<div style="margin-top: 3rem;">
+  <h3>Interests</h3>
+  <ul>
+    <li>Labor Macroeconomics</li>
+    <li>Household Finance</li>
+    <li>Social Security</li>
+  </ul>
+</div>
+
+
+  </div>
+</div>

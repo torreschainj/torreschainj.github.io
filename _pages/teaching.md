@@ -2,11 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<style>
+/* Hide the big H1 on this page only */
+.page-title,
+.page-header h1,
+h1.post-title { display: none !important; }
+</style>
 
-Organize your courses by years, topics, or universities, however you like!
+## University of Minnesota
+- **Writing Assistant**, *Economic Development (Undergraduate)* — Summer 2023  
+  Led writing section.  
+
+- **Teaching Assistant**, *Principles of Microeconomics (Undergraduate)* — Fall 2022 – Spring 2023  
+  Led recitations.  
+
+## Universidad Alberto Hurtado, Chile
+- **Teaching Assistant**, *Macroeconomics II (Graduate)* — 2020  
+  Led recitations.  
+
+- **Teaching Assistant**, *Econometrics II (Graduate)* — 2017  
+  Led recitations.  
+
