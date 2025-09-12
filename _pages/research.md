@@ -52,7 +52,6 @@ This paper develops and estimates a dynamic life-cycle model to quantify why hou
 <span class="paper-title">What Drives Heterogeneity in Savings After Retirement Across Racial and Ethnic Groups? The Role of Informal Care</span>  
 Solo-authored  
 *Draft in progress*  
-[Slides](assets/pdf/informal_care_slides.pdf)
 
 ---
 
