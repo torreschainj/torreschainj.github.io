@@ -31,9 +31,11 @@ permalink: /
       <a href="https://users.nber.org/~denardim/" target="_blank">Mariacristina De Nardi</a> and <a href="https://www.josephlyonmullins.com" target="_blank">Jo Mullins</a>.
     </p>
     
-    <p>
-    I am also an <strong>NBER Graduate Fellow (2025–26)</strong>.
-    </p>
+      <p>
+        I am also a <a href="https://www.nber.org/career-resources/postdoctoral-and-graduate-fellows-academic-year-2025-26" target="_blank">
+        NBER Graduate Fellow (2025–26)</a> in the <strong>Economics of an Aging Workforce</strong>, 
+        supported by the Alfred P. Sloan Foundation.
+      </p>
     
     <p>
       My research lies at the intersection of <strong>macroeconomics</strong>, 
