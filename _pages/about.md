@@ -4,6 +4,14 @@ title: about
 permalink: /
 ---
 
+<style>
+@media (max-width: 575.98px) {
+  .post-header .post-title {
+    font-size: clamp(1.85rem, 8.5vw, 2.15rem);
+    line-height: 1.15;
+  }
+}
+</style>
 
 <div class="row g-5">
   <!-- LEFT COLUMN -->
@@ -26,29 +34,34 @@ permalink: /
   <div class="col-md-8"><div style="margin-top: 1rem;">
     <p>
       Welcome to my website! I am a Ph.D. Candidate in Economics at the 
-      <a href="https://cla.umn.edu/economics" target="_blank">University of Minnesota</a>, 
-      working under the supervision of 
-      <a href="https://users.nber.org/~denardim/" target="_blank">Mariacristina De Nardi</a> and <a href="https://www.josephlyonmullins.com" target="_blank">Jo Mullins</a>.
+      <a href="https://cla.umn.edu/economics" target="_blank">University of Minnesota</a>.
     </p>
-    
-      <p>
-        I am also a <a href="https://www.nber.org/career-resources/postdoctoral-and-graduate-fellows-academic-year-2025-26" target="_blank">
-        NBER Graduate Fellow (2025–26)</a> in the <strong>Economics of an Aging Workforce</strong>, 
-        supported by the Alfred P. Sloan Foundation.
-      </p>
+
+    <p><strong>I will be on the 2026–2027 academic job market.</strong></p>
     
     <p>
-      My research lies at the intersection of <strong>macroeconomics</strong>, 
-      <strong>household finance</strong>, and <strong>public policy</strong>. 
-      My work focuses on <strong>long-term care</strong>, <strong>informal care provision</strong>, 
-      and <strong>health</strong>, with a particular interest in 
-      <strong>racial and socioeconomic disparities</strong>. 
+      My research studies how health risks, family structure, and public programs shape household
+      saving and labor supply over the life cycle. I focus on long-term care and the insurance
+      provided by spouses and children, with particular attention to differences across marital
+      status, race, and economic resources.
     </p>
 
     <p>
-      I use <strong>structural models</strong> and <strong>micro-level data</strong> to evaluate 
-      how social security and policy design affect economic outcomes, 
-      especially for the aging population.
+      I combine structural life-cycle models with microdata to measure these mechanisms and
+      evaluate social insurance policy.
+    </p>
+
+    <p>
+      During the 2025–2026 academic year, I was an
+      <a href="https://www.nber.org/career-resources/postdoctoral-and-graduate-fellows-academic-year-2025-26" target="_blank">NBER Graduate Fellow</a>
+      in the <strong>Economics of an Aging Workforce</strong>, supported by the Alfred P. Sloan Foundation.
+    </p>
+
+    <p>
+      My letter writers are
+      <a href="https://users.nber.org/~denardim/" target="_blank">Mariacristina De Nardi</a>,
+      <a href="https://www.josephlyonmullins.com/" target="_blank">Joseph Mullins</a>, and
+      <a href="https://sites.google.com/site/alessandrafoglisite/" target="_blank">Alessandra Fogli</a>.
     </p>
 
 <div style="margin-top: 3rem;">
