@@ -57,13 +57,6 @@ permalink: /
       in the <strong>Economics of an Aging Workforce</strong>, supported by the Alfred P. Sloan Foundation.
     </p>
 
-    <p>
-      My letter writers are
-      <a href="https://users.nber.org/~denardim/" target="_blank">Mariacristina De Nardi</a>,
-      <a href="https://www.josephlyonmullins.com/" target="_blank">Joseph Mullins</a>, and
-      <a href="https://sites.google.com/site/alessandrafoglisite/" target="_blank">Alessandra Fogli</a>.
-    </p>
-
 <div style="margin-top: 3rem;">
   <h3>Interests</h3>
   <ul>
