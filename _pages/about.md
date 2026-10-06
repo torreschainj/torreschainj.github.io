@@ -16,7 +16,7 @@ permalink: /
 <div class="row g-5">
   <!-- LEFT COLUMN -->
   <div class="col-md-4">
-    <img src="/assets/img/prof_pic.jpg" alt="Johanna Torres Chain" class="img-fluid rounded mb-3">
+    <img src="/assets/img/johanna-torres-chain.png" alt="Johanna Torres Chain" class="img-fluid rounded mb-3">
 
     <p><strong>Contact</strong><br>
     <a href="mailto:torre750@umn.edu">torre750@umn.edu</a><br>
@@ -38,6 +38,13 @@ permalink: /
     </p>
 
     <p><strong>I will be on the 2026–2027 academic job market.</strong></p>
+
+    <p>
+      My letter writers are
+      <a href="https://users.nber.org/~denardim/" target="_blank" rel="noopener noreferrer">Mariacristina De Nardi</a>,
+      <a href="https://www.josephlyonmullins.com/" target="_blank" rel="noopener noreferrer">Joseph Mullins</a>, and
+      <a href="https://sites.google.com/site/alessandrafoglisite/" target="_blank" rel="noopener noreferrer">Alessandra Fogli</a>.
+    </p>
     
     <p>
       My research studies how health risks, family structure, and public programs shape household
@@ -60,9 +67,9 @@ permalink: /
 <div style="margin-top: 3rem;">
   <h3>Interests</h3>
   <ul>
-    <li>Labor Macroeconomics</li>
+    <li>Public Economics</li>
     <li>Household Finance</li>
-    <li>Social Security</li>
+    <li>Labor Macroeconomics</li>
   </ul>
 </div>
 
