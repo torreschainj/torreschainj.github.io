@@ -29,16 +29,17 @@ h1.post-title { display: none !important; }
   margin-bottom: .3rem;
 }
 
+#research-list .paper-title-status {
+  font-size: .78em;
+  font-style: italic;
+  font-weight: 400;
+}
+
 #research-list .paper-authors,
-#research-list .paper-status,
 #research-list .paper-links,
 #research-list .paper-award,
 #research-list .paper-presentations {
   margin-bottom: .35rem;
-}
-
-#research-list .paper-status {
-  font-style: italic;
 }
 
 #research-list .paper-award,
@@ -62,11 +63,10 @@ h1.post-title { display: none !important; }
   <h2>Working Papers</h2>
 
   <article class="paper">
-    <div class="paper-title">Couples and the Value of Family Care</div>
-    <div class="paper-status">Job Market Paper</div>
+    <div class="paper-title">Couples and the Value of Family Care <span class="paper-title-status">—&nbsp;Job Market Paper</span></div>
     <div class="paper-award"><strong>Award:</strong> Best Poster Award, Embrace Day Graduate Posters Session, 2026 Canadian Economics Association Annual Meetings.</div>
     <div class="paper-presentations"><strong>Presented at:</strong> Women in Macroeconomics Conference (Chicago, 2026); Canadian Economics Association Annual Meeting (Vancouver, 2026); Inter-American Development Bank Research Conference (Washington, DC, 2026). <strong>Upcoming:</strong> Canadian Public Economics Group Annual Meeting (Montréal, 2026).</div>
-    <div class="paper-abstract"><strong>Abstract.</strong> This paper studies how family care changes the value of Medicaid long-term-care insurance. Using HRS data, I estimate a life-cycle model of singles, couples, and widowed survivors with health risk, family care, saving, and means-tested Medicaid. Family care is worth \$24,970 to the age-70 recipient household but saves Medicaid only \$809 per household. A 10 percent floor expansion is worth \$2,843 with family care and \$3,647 without it, implying a 22.1 percent offset. The population offset is mostly non-spousal, while both care margins matter within couples. Widowhood raises Medicaid exposure from 3.4 to 12.5 percent primarily through reduced resources.</div>
+    <div class="paper-abstract"><strong>Abstract.</strong> I study the value of family care to older households and its interaction with Medicaid. Using Health and Retirement Study data, I estimate a life-cycle model of retired couples and singles that distinguishes spouse care from help provided by children and others. Compensation for losing all family care over remaining life averages \$58,719 per household in wealth at entry, in 2018 dollars. For the same couples, compensation for reducing care from children and others by half is 42 percent lower when spouse care is available. In an illustrative decline in family care, households buy more paid care but still receive less care and reduce consumption and saving, while Medicaid transfers change little. Family care also lowers households' gains from more generous Medicaid support.</div>
   </article>
 
   <article class="paper">
@@ -75,9 +75,8 @@ h1.post-title { display: none !important; }
   </article>
 
   <article class="paper">
-    <div class="paper-title">Why do (most) households save and work?</div>
+    <div class="paper-title">Why do (most) households save and work? <span class="paper-title-status">—&nbsp;Revise and resubmit at the <em>American Economic Review</em></span></div>
     <div class="paper-authors">with <a href="https://sites.google.com/site/margheritaborella/home" target="_blank" rel="noopener noreferrer">Margherita Borella</a>, <a href="https://users.nber.org/~denardim/" target="_blank" rel="noopener noreferrer">Mariacristina De Nardi</a>, and <a href="https://sites.google.com/view/fangyang/home" target="_blank" rel="noopener noreferrer">Fang Yang</a></div>
-    <div class="paper-status">Revise and resubmit at the <em>American Economic Review</em></div>
     <div class="paper-links"><a href="https://users.nber.org/~denardim/research/NBERwp33874.pdf" target="_blank" rel="noopener noreferrer">PDF</a> · <a href="https://users.nber.org/~denardim/research/BDYT_75min_May_2025.pdf" target="_blank" rel="noopener noreferrer">Slides</a></div>
     <div class="paper-presentations"><strong>Presented at:</strong> Canadian Economics Association Annual Meeting (Vancouver, 2026); European Winter Meeting of the Econometric Society (Nicosia, 2025); Midwest Macroeconomics Meeting (Cleveland, 2025).</div>
     <div class="paper-abstract"><strong>Abstract.</strong> We quantify why most households save and work, using a life-cycle model with wage risk, endogenous labor supply of both spouses, marital transitions, health, medical expenses, mortality, and bequest motives at the death of the first and last household member, estimated on PSID and HRS data. A model with more motives to save and endogenous labor supply implies smaller roles for precautionary saving against wage risk and for bequest motives than previously suggested. Modeling the entire life cycle implies a larger role for medical expenses, because households save and work for them long before they retire. Marriage and divorce risk has large and offsetting effects on the savings of couples and singles, and thus small effects on aggregate savings, but affects aggregate earnings as much as wage risk.</div>
