@@ -23,7 +23,7 @@ cv_pdf: /assets/pdfs/Johanna-Torres-Chain-CV.pdf
   padding-left: .5rem;
   padding-right: .25rem;
 }
-@media (max-width: 640px) {
+@media (max-width: 767.98px) {
   #cv-simple .cv-row { grid-template-columns: 1fr; }
   #cv-simple .cv-date { text-align: left; white-space: normal; margin-top: .25rem; padding: 0; }
 }
@@ -81,16 +81,16 @@ h1.post-title { display: none !important; }
 ## Major Fields
 
 - Macroeconomics
+- Public Economics
 - Household Finance
-- Labor Macroeconomics
-- Aging and Health
+- Labor Economics
 
 ---
 
 ## Dissertation
 
 <div class="cv-row">
-  <div class="cv-left"><strong>“Family Care as Informal Insurance: Medicaid, Marriage, and Widowhood in Old Age”</strong><br>Advisor: Mariacristina De Nardi</div>
+  <div class="cv-left"><strong>“The Value of Family Care: Couples, Singles, and Medicaid in Old Age”</strong><br>Advisor: Mariacristina De Nardi</div>
   <div class="cv-date">Summer 2027<br>(expected)</div>
 </div>
 
@@ -99,8 +99,8 @@ h1.post-title { display: none !important; }
 ## Working Papers
 
 <ul>
-  <li><strong>“Family Care as Informal Insurance: Medicaid, Marriage, and Widowhood in Old Age”</strong> (Job Market Paper)</li>
-  <li><strong>“Substitutes for Saving: Family Care, Long-Term-Care Risk, and Race in Late Life”</strong></li>
+  <li><strong>“The Value of Family Care: Couples, Singles, and Medicaid in Old Age”</strong> (Job Market Paper)</li>
+  <li><strong>“The Family as Insurer: Race, Long-Term Care, and Wealth After Retirement”</strong></li>
   <li><strong>“The Incidence of Health Risk: Home Production, Self-Insurance, and Who Bears the Cost”</strong><br>
   with Francisco Bullano</li>
   <li><strong>“Why do (most) households save and work?”</strong><br>
@@ -112,7 +112,7 @@ h1.post-title { display: none !important; }
 ## Work in Progress
 
 <ul>
-  <li><strong>“Estimating Subjective Health Production Functions”</strong><br>
+  <li><strong>“How is Health Produced? Estimating Subjective Health Production Functions”</strong><br>
   with Gabriella Conti, Mariacristina De Nardi, Pamela Giustinelli, and Fan Wang</li>
 </ul>
 

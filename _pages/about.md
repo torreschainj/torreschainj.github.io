@@ -67,9 +67,10 @@ permalink: /
 <div style="margin-top: 3rem;">
   <h3>Interests</h3>
   <ul>
+    <li>Macroeconomics</li>
     <li>Public Economics</li>
     <li>Household Finance</li>
-    <li>Labor Macroeconomics</li>
+    <li>Labor Economics</li>
   </ul>
 </div>
 
