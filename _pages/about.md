@@ -43,7 +43,7 @@ permalink: /
       My letter writers are
       <a href="https://users.nber.org/~denardim/" target="_blank" rel="noopener noreferrer">Mariacristina De Nardi</a>,
       <a href="https://www.josephlyonmullins.com/" target="_blank" rel="noopener noreferrer">Joseph Mullins</a>, and
-      <a href="https://sites.google.com/site/alessandrafoglisite/" target="_blank" rel="noopener noreferrer">Alessandra Fogli</a>.
+      <a href="https://www.afogli.com" target="_blank" rel="noopener noreferrer">Alessandra Fogli</a>.
     </p>
     
     <p>
