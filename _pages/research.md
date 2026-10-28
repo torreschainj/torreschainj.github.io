@@ -20,6 +20,7 @@ h1.post-title { display: none !important; }
 
 #research-list .paper {
   margin-bottom: 2.5rem;
+  scroll-margin-top: 6rem;
 }
 
 #research-list .paper-title {
@@ -62,7 +63,7 @@ h1.post-title { display: none !important; }
 <div id="research-list">
   <h2>Working Papers</h2>
 
-  <article class="paper">
+  <article class="paper" id="job-market-paper">
     <div class="paper-title">The Value of Family Care: Couples, Singles, and Medicaid in Old Age <span class="paper-title-status">—&nbsp;Job Market Paper</span></div>
     <div class="paper-award"><strong>Award:</strong> Best Poster Award, Embrace Day Graduate Posters Session, 2026 Canadian Economics Association Annual Meetings.</div>
     <div class="paper-presentations"><strong>Presented at:</strong> Women in Macroeconomics Conference (Chicago, 2026); Canadian Economics Association Annual Meeting (Vancouver, 2026); Inter-American Development Bank Research Conference (Washington, DC, 2026). <strong>Upcoming:</strong> Canadian Public Economics Group Annual Meeting (Montréal, 2026).</div>

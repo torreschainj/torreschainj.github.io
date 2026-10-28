@@ -40,6 +40,11 @@ permalink: /
     <p><strong>I will be on the 2026–2027 academic job market.</strong></p>
 
     <p>
+      My job market paper is
+      <a href="{{ '/research/#job-market-paper' | relative_url }}"><strong>The Value of Family Care: Couples, Singles, and Medicaid in Old Age</strong></a>.
+    </p>
+
+    <p>
       My letter writers are
       <a href="https://users.nber.org/~denardim/" target="_blank" rel="noopener noreferrer">Mariacristina De Nardi</a>,
       <a href="https://www.josephlyonmullins.com/" target="_blank" rel="noopener noreferrer">Joseph Mullins</a>, and
