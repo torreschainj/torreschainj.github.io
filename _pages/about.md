@@ -41,7 +41,8 @@ permalink: /
 
     <p>
       My job market paper is
-      <a href="{{ '/research/#job-market-paper' | relative_url }}"><strong>The Value of Family Care: Couples, Singles, and Medicaid in Old Age</strong></a>.
+      <a href="{{ '/research/#job-market-paper' | relative_url }}"><strong>The Value of Family Care: Couples, Singles, and Medicaid in Old Age</strong></a>
+      (<a href="{{ '/assets/pdfs/Johanna-Torres-Chain-JMP.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">PDF</a>).
     </p>
 
     <p>
