@@ -24,16 +24,26 @@ h1.post-title { display: none !important; }
 }
 
 #research-list .paper-title {
+  color: var(--global-theme-color);
   font-size: 1.3rem;
   font-weight: 600;
   line-height: 1.35;
   margin-bottom: .3rem;
 }
 
+#research-list .paper-title a {
+  color: inherit;
+}
+
 #research-list .paper-title-status {
+  color: var(--global-text-color);
   font-size: .78em;
   font-style: italic;
   font-weight: 400;
+}
+
+#research-list #job-market-paper .paper-title-status {
+  font-weight: 700;
 }
 
 #research-list .paper-authors,
