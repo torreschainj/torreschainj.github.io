@@ -64,7 +64,7 @@ h1.post-title { display: none !important; }
   <h2>Working Papers</h2>
 
   <article class="paper" id="job-market-paper">
-    <div class="paper-title">The Value of Family Care: Couples, Singles, and Medicaid in Old Age <span class="paper-title-status">—&nbsp;Job Market Paper</span></div>
+    <div class="paper-title"><a href="{{ '/assets/pdfs/Johanna-Torres-Chain-JMP.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">The Value of Family Care: Couples, Singles, and Medicaid in Old Age</a> <span class="paper-title-status">—&nbsp;Job Market Paper</span></div>
     <div class="paper-links"><a href="{{ '/assets/pdfs/Johanna-Torres-Chain-JMP.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">PDF</a></div>
     <div class="paper-award"><strong>Award:</strong> Best Poster Award, Embrace Day Graduate Posters Session, 2026 Canadian Economics Association Annual Meetings.</div>
     <div class="paper-presentations"><strong>Presented at:</strong> Women in Macroeconomics Conference (Chicago, 2026); Canadian Economics Association Annual Meeting (Vancouver, 2026); Inter-American Development Bank Research Conference (Washington, DC, 2026). <strong>Upcoming:</strong> Canadian Public Economics Group Annual Meeting (Montréal, 2026).</div>
@@ -72,16 +72,16 @@ h1.post-title { display: none !important; }
   </article>
 
   <article class="paper">
-    <div class="paper-title">The Family as Insurer: Race, Long-Term Care, and Wealth After Retirement</div>
-    <div class="paper-abstract"><strong>Abstract.</strong> I study how family care and existing public support shape racial differences in retirement wealth and the gains from additional long-term-care insurance. Using Health and Retirement Study data, I estimate a saving model of White and Black single women aged 70 or older. Starting wealth and income account for 65–90 percent of the simulated wealth gap at ages 74–84. With family care and nursing-home risk held fixed, a subsidy covering half of nursing-home expenses yields average wealth-equivalent gains of \$92,000 for White retirees and \$13,000 for Black retirees in the middle third of each race’s income distribution (2018 dollars). The subsidy protects resources retirees would otherwise spend, but provides less additional insurance when existing means-tested support already covers the expense. Its value therefore depends on retirees’ own resources, family help, and the public coverage already in place.</div>
-  </article>
-
-  <article class="paper">
-    <div class="paper-title">Why do (most) households save and work? <span class="paper-title-status">—&nbsp;Revise and resubmit at the <em>American Economic Review</em></span></div>
+    <div class="paper-title"><a href="https://users.nber.org/~denardim/research/NBERwp33874.pdf" target="_blank" rel="noopener noreferrer">Why do (most) households save and work?</a> <span class="paper-title-status">—&nbsp;Revise and resubmit at the <em>American Economic Review</em></span></div>
     <div class="paper-authors">with <a href="https://sites.google.com/site/margheritaborella/home" target="_blank" rel="noopener noreferrer">Margherita Borella</a>, <a href="https://users.nber.org/~denardim/" target="_blank" rel="noopener noreferrer">Mariacristina De Nardi</a>, and <a href="https://sites.google.com/view/fangyang/home" target="_blank" rel="noopener noreferrer">Fang Yang</a></div>
     <div class="paper-links"><a href="https://users.nber.org/~denardim/research/NBERwp33874.pdf" target="_blank" rel="noopener noreferrer">PDF</a> · <a href="https://users.nber.org/~denardim/research/BDYT_75min_May_2025.pdf" target="_blank" rel="noopener noreferrer">Slides</a></div>
     <div class="paper-presentations"><strong>Presented at:</strong> Canadian Economics Association Annual Meeting (Vancouver, 2026); European Winter Meeting of the Econometric Society (Nicosia, 2025); Midwest Macroeconomics Meeting (Cleveland, 2025).</div>
     <div class="paper-abstract"><strong>Abstract.</strong> We quantify why most households save and work, using a life-cycle model with wage risk, endogenous labor supply of both spouses, marital transitions, health, medical expenses, mortality, and bequest motives at the death of the first and last household member, estimated on PSID and HRS data. A model with more motives to save and endogenous labor supply implies smaller roles for precautionary saving against wage risk and for bequest motives than previously suggested. Modeling the entire life cycle implies a larger role for medical expenses, because households save and work for them long before they retire. Marriage and divorce risk has large and offsetting effects on the savings of couples and singles, and thus small effects on aggregate savings, but affects aggregate earnings as much as wage risk.</div>
+  </article>
+
+  <article class="paper">
+    <div class="paper-title">The Family as Insurer: Race, Long-Term Care, and Wealth After Retirement</div>
+    <div class="paper-abstract"><strong>Abstract.</strong> I study how family care and existing public support shape racial differences in retirement wealth and the gains from additional long-term-care insurance. Using Health and Retirement Study data, I estimate a saving model of White and Black single women aged 70 or older. Starting wealth and income account for 65–90 percent of the simulated wealth gap at ages 74–84. With family care and nursing-home risk held fixed, a subsidy covering half of nursing-home expenses yields average wealth-equivalent gains of \$92,000 for White retirees and \$13,000 for Black retirees in the middle third of each race’s income distribution (2018 dollars). The subsidy protects resources retirees would otherwise spend, but provides less additional insurance when existing means-tested support already covers the expense. Its value therefore depends on retirees’ own resources, family help, and the public coverage already in place.</div>
   </article>
 
   <article class="paper">
