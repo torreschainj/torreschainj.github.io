@@ -37,7 +37,7 @@ permalink: /
       <a href="https://cla.umn.edu/economics" target="_blank">University of Minnesota</a>.
     </p>
 
-    <p><strong>I will be on the 2026–2027 academic job market.</strong></p>
+    <p><strong>I am on the 2026–27 economics job market.</strong></p>
 
     <p>
       My job market paper is
