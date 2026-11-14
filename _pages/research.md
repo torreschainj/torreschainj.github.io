@@ -90,7 +90,8 @@ h1.post-title { display: none !important; }
   </article>
 
   <article class="paper">
-    <div class="paper-title">The Family as Insurer: Race, Long-Term Care, and Wealth After Retirement</div>
+    <div class="paper-title"><a href="{{ '/assets/pdfs/Johanna-Torres-Chain-Family-as-Insurer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">The Family as Insurer: Race, Long-Term Care, and Wealth After Retirement</a></div>
+    <div class="paper-links"><a href="{{ '/assets/pdfs/Johanna-Torres-Chain-Family-as-Insurer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">PDF</a></div>
     <div class="paper-abstract"><strong>Abstract.</strong> I study how family care and existing public support shape racial differences in retirement wealth and the gains from additional long-term-care insurance. Using Health and Retirement Study data, I estimate a saving model of White and Black single women aged 70 or older. Starting wealth and income account for 65–90 percent of the simulated wealth gap at ages 74–84. With family care and nursing-home risk held fixed, a subsidy covering half of nursing-home expenses yields average wealth-equivalent gains of \$92,000 for White retirees and \$13,000 for Black retirees in the middle third of each race’s income distribution (2018 dollars). The subsidy protects resources retirees would otherwise spend, but provides less additional insurance when existing means-tested support already covers the expense. Its value therefore depends on retirees’ own resources, family help, and the public coverage already in place.</div>
   </article>
 
